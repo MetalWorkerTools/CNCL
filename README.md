@@ -8,7 +8,7 @@ CNCL is provided as a 30 days trial version. The trial version is a full version
 [CNCL](https://www.microsoft.com/store/apps/9P42TB5T697H) is available from the Microsoft Store.
 <p>&nbsp;</p> 
 
-### For more information, read the [WiKi](https://github.com/MetalWorkerTools/LatheOffCenterCalculator/wiki)
+### For more information, read the [WiKi](https://github.com/MetalWorkerTools/CNCL/wiki)
 <p>&nbsp;</p>
 
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCL/issues) to report a bug or request a feature 
