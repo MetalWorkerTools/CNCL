@@ -13,11 +13,22 @@ Thinking about a CNC rotary table, checkout [CNCR](https://www.microsoft.com/sto
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCL/issues) to report a bug or request a feature 
 <p>&nbsp;</p>
 
-## Version 2.3.61 is released on 12-2020  
-
+##  Version 2.3.71 is released on 06-2021:
 ### New in this version:
-* Fixed bug in Taper task not recalculating End Ø when Start Ø, Start Z or End Z changed.
-* Changed the support site to GitHub.
+* I can’t get a new version released by Microsoft that has a trial option **and** usage license options. To avoid wasting any more time I have decided to drop the one year and permanent usage licenses. All current and new owners of an app license can use the app without limitations.
+* Added an Engraving task for engraving dials
+Mono space font, orientation left to right or Clockwise, limited characters 0123456789.,-+/ \"°Ø iI| ┤├
+For this task there is an instruction video. Select the Engraving task, press the help button and press the video icon. This will take you to the video.
+* Added a Form tool type for use in the GearCutter and TBelCutter turning task
+* Added a Tool selection option for the Grinding task.
+* Added a repeat option for the Grinding task when there is only one flute to grind.
+* Added Start X and Home X positions to the Grinding task.
+* Added an instruction video for the knurling task
+* Changed the line spacing calculation in the Knurling task to make the spacing independent of the knurling Angle.
+* Changed the rotation in the Knurling task to CCW to see the knurled lines better.
+* Changed the check for using a preferred tool for that task. An unpreferred tool has to be approved at every tool change for the selected task.
+* Disabled disconnecting when the app is suspended to avoid position loss when the app is used on a tablet.
+* Fixed TNRC for Chamfer inner turning not working any more.
   
 <p>&nbsp;</p>  
 
