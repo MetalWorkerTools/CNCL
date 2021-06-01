@@ -4,20 +4,17 @@
 If you ever wanted to start with CNC, this is the easy and affordable way to do it.
 [CNCL](https://www.microsoft.com/store/apps/9P42TB5T697H) is also provided as a 30 days trial version. The trial version is a full version without limitations. Check the License Information task for more information.  
 [CNCL](https://www.microsoft.com/store/apps/9P42TB5T697H) is available from the Microsoft Store.  
+
 Thinking about a CNC rotary table, checkout [CNCR](https://www.microsoft.com/store/apps/9N7HPG47XK0G) from the Microsoft store..
 <p>&nbsp;</p> 
 
-### For more information, read the [WiKi](https://github.com/MetalWorkerTools/CNCL/wiki)
-<p>&nbsp;</p>
-
+## For more information, read the [WiKi](https://github.com/MetalWorkerTools/CNCL/wiki)
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCL/issues) to report a bug or request a feature 
-<p>&nbsp;</p>
-
-##  Version 2.3.71 is released on 06-2021:
+## Version 2.3.71 is released on 06-2021:
 ### New in this version:
 * I can’t get a new version released by Microsoft that has a trial option **and** usage license options. To avoid wasting any more time I have decided to drop the one year and permanent usage licenses. All current and new owners of an app license can use the app without limitations.
-* Added an Engraving task for engraving dials
-Mono space font, orientation left to right or Clockwise, limited characters 0123456789.,-+/ \"°Ø iI| ┤├
+* Added an Engraving task for engraving dials Mono space font, orientation left to right or Clockwise.  
+limited characters 0123456789.,-+/ \"°Ø iI| ┤├  
 For this task there is an instruction video. Select the Engraving task, press the help button and press the video icon. This will take you to the video.
 * Added a Form tool type for use in the GearCutter and TBelCutter turning task
 * Added a Tool selection option for the Grinding task.
@@ -29,10 +26,6 @@ For this task there is an instruction video. Select the Engraving task, press th
 * Changed the check for using a preferred tool for that task. An unpreferred tool has to be approved at every tool change for the selected task.
 * Disabled disconnecting when the app is suspended to avoid position loss when the app is used on a tablet.
 * Fixed TNRC for Chamfer inner turning not working any more.
-  
 <p>&nbsp;</p>  
-
-
-
-Thinking about CNC a rotary table, checkout [CNCR](https://www.microsoft.com/store/apps/9N7HPG47XK0G) available from the Microsoft Store.  
+Thinking about CNC a rotary table, checkout [CNCR](https://www.microsoft.com/store/apps/9N7HPG47XK0G) from the Microsoft Store.  
 
