@@ -16,7 +16,7 @@ Thinking about a CNC rotary table, checkout [CNCR](https://www.microsoft.com/sto
 * Added an Engraving task for engraving dials Mono space font, orientation left to right or Clockwise.  
 limited characters 0123456789.,-+/ \"°Ø iI| ┤├  
 For this task there is an instruction video. Select the Engraving task, press the help button and press the video icon. This will take you to the video.
-* Added a Form tool type for use in the GearCutter and TBelCutter turning task
+* Added a Form tool type for use in the GearCutter and TBeltCutter turning task
 * Added a Tool selection option for the Grinding task.
 * Added a repeat option for the Grinding task when there is only one flute to grind.
 * Added Start X and Home X positions to the Grinding task.
