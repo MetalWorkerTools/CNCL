@@ -10,22 +10,22 @@ Thinking about a CNC rotary table, checkout [CNCR](https://www.microsoft.com/sto
 
 ## For more information, read the [WiKi](https://github.com/MetalWorkerTools/CNCL/wiki)
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCL/issues) to report a bug or request a feature 
-## Version 2.3.71 is released on 06-2021:
+## Version 2.3.73 is released on 08-2021:
 ### New in this version:
-* I can’t get a new version released by Microsoft that has a trial option **and** usage license options. To avoid wasting any more time I have decided to drop the one year and permanent usage licenses. All current and new owners of an app license can use the app without limitations.
-* Added an Engraving task for engraving dials Mono space font, orientation left to right or Clockwise.  
-limited characters 0123456789.,-+/ \"°Ø iI| ┤├  
-For this task there is an instruction video. Select the Engraving task, press the help button and press the video icon. This will take you to the video.
-* Added a Form tool type for use in the GearCutter and TBeltCutter turning task
-* Added a Tool selection option for the Grinding task.
-* Added a repeat option for the Grinding task when there is only one flute to grind.
-* Added Start X and Home X positions to the Grinding task.
-* Added an instruction video for the knurling task
-* Changed the line spacing calculation in the Knurling task to make the spacing independent of the knurling Angle.
-* Changed the rotation in the Knurling task to CCW to see the knurled lines better.
-* Changed the check for using a preferred tool for that task. An unpreferred tool has to be approved at every tool change for the selected task.
-* Disabled disconnecting when the app is suspended to avoid position loss when the app is used on a tablet.
-* Fixed TNRC for Chamfer inner turning not working any more.
+* Added a rigid Tapping task. Press the YouTube button in the help screen for the instruction video.
+* Added an instruction video for the Drilling task.
+* Added delete row button to Playback task.
+* Added logging of the task name to the playback log to easier indentify playback commands.
+* Added showing playback comments during playback.
+* Added a TC (Tool Change) button to the Drilling and Tapping task.
+* Changed the display of filenames by showing their "friendly" name.
+* Changed knurling at 0° to knurl on both sides an infeed pass.
+* Optimized the knurling tool path for a 0° knurling angle.
+* Fixed bug not always calculating the number of knurls when the knurling angle changes.
+* Fixed bug in TBeltCutter task using the wrong MXL belt pitch.
+* Fixed bug not showing GRBL configuration values when starting in Setup Grbl task.
+* Fixed the header of the grbl settings in the Setup Grbl task
+* Fixed error in calculating Taper when the Taper Angle was changed by user
 <p>&nbsp;</p>  
 Thinking about CNC a rotary table, checkout [CNCR](https://www.microsoft.com/store/apps/9N7HPG47XK0G) from the Microsoft Store.  
 
