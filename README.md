@@ -9,23 +9,9 @@ Thinking about a CNC rotary table, checkout [CNCR](https://www.microsoft.com/sto
 <p>&nbsp;</p> 
 
 ## For more information, read the [WiKi](https://github.com/MetalWorkerTools/CNCL/wiki)
+## Version [2.3.73](https://github.com/MetalWorkerTools/CNCL/wiki/Version-Information#version-2373-08-2021) is released on 08-2021.
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCL/issues) to report a bug or request a feature 
-## Version 2.3.73 is released on 08-2021:
-### New in this version:
-* Added a rigid Tapping task. Press the YouTube button in the help screen for the instruction video.
-* Added an instruction video for the Drilling task.
-* Added delete row button to Playback task.
-* Added logging of the task name to the playback log to easier indentify playback commands.
-* Added showing playback comments during playback.
-* Added a TC (Tool Change) button to the Drilling and Tapping task.
-* Changed the display of filenames by showing their "friendly" name.
-* Changed knurling at 0° to knurl on both sides an infeed pass.
-* Optimized the knurling tool path for a 0° knurling angle.
-* Fixed bug not always calculating the number of knurls when the knurling angle changes.
-* Fixed bug in TBeltCutter task using the wrong MXL belt pitch.
-* Fixed bug not showing GRBL configuration values when starting in Setup Grbl task.
-* Fixed the header of the grbl settings in the Setup Grbl task
-* Fixed error in calculating Taper when the Taper Angle was changed by user
+
 <p>&nbsp;</p>  
 Thinking about CNC a rotary table, checkout [CNCR](https://www.microsoft.com/store/apps/9N7HPG47XK0G) from the Microsoft Store.  
 
