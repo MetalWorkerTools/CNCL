@@ -9,7 +9,7 @@ Thinking about a CNC rotary table, checkout [CNCR](https://www.microsoft.com/sto
 <p>&nbsp;</p> 
 
 ## For more information, read the [WiKi](https://github.com/MetalWorkerTools/CNCL/wiki)
-## Version [2.3.73](https://github.com/MetalWorkerTools/CNCL/wiki/Version-Information#version-2373-08-2021) is released on 08-2021.
+##  Version [2.3.77](https://github.com/MetalWorkerTools/CNCL/wiki/Version-Information#version-2377-01-2022) is released on 01-2022.
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCL/issues) to report a bug or request a feature 
 
 <p>&nbsp;</p>  
