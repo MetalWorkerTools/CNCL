@@ -11,7 +11,3 @@ Thinking about a CNC rotary table, checkout [CNCR](https://www.microsoft.com/sto
 ## For more information, read the [WiKi](https://github.com/MetalWorkerTools/CNCL/wiki)
 ## Version [2.3.79](https://github.com/MetalWorkerTools/CNCL/wiki/Version-Information#version-2379-01-2022) is released on 01-2022
 ## Use [**Issues**](https://github.com/MetalWorkerTools/CNCL/issues) to report a bug or request a feature 
-
-<p>&nbsp;</p>  
-Thinking about CNC a rotary table, checkout [CNCR](https://www.microsoft.com/store/apps/9N7HPG47XK0G) from the Microsoft Store.  
-
